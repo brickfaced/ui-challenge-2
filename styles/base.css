@@ -1,0 +1,21 @@
+* {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+  width: 480px;
+}
+
+header {
+  text-align: center;
+}
+
+.sprite {
+  height: 35%;
+  width: 35%;
+}
+
+#submit {
+  color: white;
+  background-color: dimgray;
+}
